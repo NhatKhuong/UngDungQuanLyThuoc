@@ -1,0 +1,5 @@
+id_admin: 9999999999
+pass_admin: 123
+
+id_user: 0945601320
+pass_user: 123
